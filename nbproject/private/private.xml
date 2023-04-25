@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/reviews.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/trees.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/css/styles.css</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/layouts/navbar.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/app/Models/Comment.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/auth/login.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/app/Http/Controllers/CommentsController.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/app/Http/Controllers/TreesController.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/comments.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/css/custom_style.css</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/app/Models/User.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/Form.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/app/Http/Controllers/ReviewsController.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/auth/register.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/app/Models/Review.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/EditForm.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/app/Models/Tree.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/home.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/database/migrations/2023_02_05_183005_create_trees_table.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/.env</file>
+            <file>file:/C:/xampp/htdocs/Projekt/resources/views/auth/verify.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/app/Models/Counter.php</file>
+            <file>file:/C:/xampp/htdocs/Projekt/routes/web.php</file>
+        </group>
+    </open-files>
+</project-private>
